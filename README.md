@@ -12,4 +12,4 @@ model.pth is a saved version of attempt number four
 
 tictactoe.py is the code to play against the model in the command line
 
-  - make sure to have the model.pth file in a folder called TicTacToeModel with the folder in the same working directory as the above python file 
+  - make sure to have the model.pth file in a folder called TicTacToeModel with that folder in the same working directory as the above python file 
